@@ -1,5 +1,6 @@
 # server-side-project
 
+## Note - Change name - customer_management(server-side project) to customer_management
 
 ## Prerequisites
 
@@ -75,3 +76,5 @@ git clone https://github.com/abhi-146/server-side-project/
 ```bash
 bench --site [sitename] install-app [appname]
 ```
+
+
